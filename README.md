@@ -19,5 +19,5 @@ npm run client
 # Starting Express Server & Client Server Concurrently
 npm run dev
 
-# Server runs on http://localhost:5000 and 
+Server runs on http://localhost:5000 and 
 client on http://localhost:3000
